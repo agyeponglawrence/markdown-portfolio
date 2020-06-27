@@ -1,0 +1,3 @@
+# Skills
+-**Python**
+- *R*
